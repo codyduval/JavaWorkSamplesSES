@@ -1,0 +1,26 @@
+#java specific
+*.class
+
+## generic files to ignore
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+######################
+# Eclipse
+######################
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+

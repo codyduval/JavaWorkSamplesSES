@@ -1,4 +1,4 @@
-###Software Engineering at Scale - Java Work Samples
+###Software Engineering at Scale Course - Java Work Samples
 
 This is a collection of some of my work from General Assembly's 12-week [Software Engineering at Scale](https://generalassemb.ly/education/software-engineering-at-scale) course.  I took the course in the winter of 2012/2013.
 
